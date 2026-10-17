@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import Produto from './produto'
+import PaginaProduto from './paginaProdutos'
 import './App.css'
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
 
   return (
       <div>
-<Produto/>
+<PaginaProduto />
 
 
     </div>
@@ -17,4 +17,4 @@ function App() {
   
 }
 
-export default App
+export default App;
