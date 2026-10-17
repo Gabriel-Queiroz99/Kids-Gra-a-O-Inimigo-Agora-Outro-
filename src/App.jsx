@@ -1,5 +1,5 @@
 import { useState } from 'react'
-
+import Produto from './produto'
 import './App.css'
 
 function App() {
@@ -7,6 +7,8 @@ function App() {
 
   return (
       <div>
+<Produto/>
+
 
     </div>
 
