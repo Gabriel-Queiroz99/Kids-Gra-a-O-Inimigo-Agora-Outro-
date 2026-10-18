@@ -12,6 +12,7 @@ transition: all 500ms;
 justify-content:  flex-start;
 gap: 50px;
 align-items: center;
+
 }
 #todo:hover { 
     transform: scale(0.98);
